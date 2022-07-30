@@ -1,5 +1,13 @@
 # Changes
 
+## [1.37.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.36.0...spanner/v1.37.0) (2022-07-30)
+
+
+### Features
+
+* **spanner/admin/database:** Add ListDatabaseRoles API to support role based access control ([1ffeb95](https://github.com/googleapis/google-cloud-go/commit/1ffeb9557bf1f18cc131aff40ec7e0e15a9f4ead))
+* **spanner/spansql:** add support for nullif expressions ([#6423](https://github.com/googleapis/google-cloud-go/issues/6423)) ([5b7bfeb](https://github.com/googleapis/google-cloud-go/commit/5b7bfebcd4a0fd3cbe355d9d290e6b5101810b7e))
+
 ## [1.36.0](https://github.com/googleapis/google-cloud-go/compare/spanner/v1.35.0...spanner/v1.36.0) (2022-07-23)
 
 

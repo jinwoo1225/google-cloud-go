@@ -1,6 +1,14 @@
 # Changes
 
 
+## [1.37.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.36.0...bigquery/v1.37.0) (2022-07-30)
+
+
+### Features
+
+* **bigquery/storage/managedwriter:** refactor AppendResponse ([#6402](https://github.com/googleapis/google-cloud-go/issues/6402)) ([c07bca2](https://github.com/googleapis/google-cloud-go/commit/c07bca2d65ec9903ba0c592da11440cebe8b7d9e))
+* **bigquery:** support JSON as a data type ([#5986](https://github.com/googleapis/google-cloud-go/issues/5986)) ([835fe4f](https://github.com/googleapis/google-cloud-go/commit/835fe4fe59f4a3c64c5762a530228d5369618897))
+
 ## [1.36.0](https://github.com/googleapis/google-cloud-go/compare/bigquery/v1.35.0...bigquery/v1.36.0) (2022-07-18)
 
 

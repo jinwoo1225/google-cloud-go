@@ -75,7 +75,7 @@
   "policytroubleshooter": "1.2.0",
   "privatecatalog": "0.4.0",
   "recaptchaenterprise/v2": "2.0.1",
-  "recommendationengine": "0.2.0",
+  "recommendationengine": "0.3.0",
   "recommender": "1.4.0",
   "redis": "1.6.0",
   "resourcemanager": "1.2.0",
